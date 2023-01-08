@@ -20,7 +20,7 @@ I am a Junior Python Developer from the UK
 
 - :telescope: I’m working as a Data Analyst using Python, SQL and AWS.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and improve my skills with Python.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -28,6 +28,8 @@ I am a Junior Python Developer from the UK
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
   
 </div>
 
