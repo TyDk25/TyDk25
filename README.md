@@ -14,11 +14,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
---
-### :man_technologist: About Me:
-I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
 
-- :telescope: I’m working as a Data Analyst using Python to improve real-world applications
+### :man_technologist: About Me:
+I am a Junior Python Developer from the UK
+
+- :telescope: I’m working as a Data Analyst using Python, SQL and AWS.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -27,6 +27,8 @@ I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 </div>
 
 ---
