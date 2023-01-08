@@ -15,14 +15,14 @@
 </h1>
 
 
-### :man_technologist: About Me:
+### :man_technologist: About Me
 I am a Junior Python Developer from the UK
 
 - :telescope: I’m working as a Data Analyst using Python, SQL and AWS.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and improve my skills with Python.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div>
 --
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -35,7 +35,7 @@ I am a Junior Python Developer from the UK
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TyDk25&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
